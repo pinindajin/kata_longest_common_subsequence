@@ -1,0 +1,22 @@
+{
+  "name": "kata_longest_common_subsequence",
+  "version": "1.0.0",
+  "description": "Write a function that can determine the longest common subsequence (LCS) among two unique sequences. A subsequence is a sequence that can be derived  from another sequence by deleting some or no elements without changing  the order of the remaining elements.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinindajin/kata_longest_common_subsequence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinindajin/kata_longest_common_subsequence/issues"
+  },
+  "homepage": "https://github.com/pinindajin/kata_longest_common_subsequence#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
